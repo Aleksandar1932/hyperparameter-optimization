@@ -4,4 +4,8 @@ Hands on tutorial for hyperparameter optimization of a RandomForestClassifier fo
 
 Full [Blog Post](https://blog.ivanovski.tech/hyperparameter-optimization-with-wandb).
 
-[Weights & Biases project](https://wandb.ai/aleksandar1932/hyperparameter-optimization).
+## Hyperparameters Optimization
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1642630342124/MI8hrVFqr.png)
+
+Weights & Biases [project](https://wandb.ai/aleksandar1932/hyperparameter-optimization).
