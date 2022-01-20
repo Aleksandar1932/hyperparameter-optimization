@@ -3,7 +3,7 @@ method: bayes
 project: hyperparameter-optimization
 command:
 - ${env} 
-- D:\envs\nlp_project\Scripts\python
+- ~/envs/hyperopt/bin/python
 - ${program}
 - ${args}
 
